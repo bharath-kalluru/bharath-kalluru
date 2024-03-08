@@ -11,7 +11,7 @@
   style="width: 50%"
 />
 
-<a href="https://github.com/bharath-kalluru">
+
   <img
     alt="Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=bharath-kalluru&theme=redical&hide_border=true"
