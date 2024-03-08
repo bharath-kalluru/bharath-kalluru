@@ -10,7 +10,7 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=bharath-kalluru&theme=radical&hide_border=true"
   style="width: 50%"
 />
-<!-- 
+
 <a href="https://github.com/bharath-kalluru">
   <img
     alt="Activity Graph"
@@ -22,5 +22,4 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-kalluru&layout=compact&theme=radical&hide_border=true"
   style="width: 50%"
 />
- -->
 
