@@ -4,7 +4,7 @@
 <!-- ### Hi there 👋
  -->
 <!--
-**Nagakiran1/Nagakiran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bharath-kalluru/Bharath-Kalluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
