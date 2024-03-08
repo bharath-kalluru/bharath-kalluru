@@ -12,11 +12,6 @@
 />
 
 
-  <img
-    alt="Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=bharath-kalluru&theme=redical&hide_border=true"
-    style="width: 54%; height: 60%"
-/></a>
 <br />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-kalluru&layout=compact&theme=radical&hide_border=true"
